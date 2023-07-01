@@ -1,0 +1,15 @@
+{
+  "name": "compact",
+  "version": "1.0.0",
+  "description": "Implementing JavaScript Built-in function and lodash functions by own",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  }
+}
